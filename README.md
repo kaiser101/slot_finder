@@ -2,6 +2,9 @@
 
 Search for all vaccine slots in Mumbai for tomorrow
 
+Install requests using
+ - pip install requests
+
 Search criteria
  - Open for 18+
  - Vaccine second dose slots available
