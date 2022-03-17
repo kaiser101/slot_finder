@@ -78,4 +78,6 @@ def get_slots_by_dist(dist):
 # dist = input()
 dist = 395
 # Mumbai - 395
-get_slots_by_dist(dist)
+
+if __name__ == '__main__':
+    get_slots_by_dist(dist)
